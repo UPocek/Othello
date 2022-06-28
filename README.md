@@ -22,7 +22,7 @@ It uses [minimax](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory
 
 Regarding the structures used to design the project, I implemented my version of ChainedHashMap to store already calculated board positions (as one of the optimization techniques) and also I implemented BinaryTree used for pruning. Since it was one of the requirements of the project all the calculations are done in less than 3 seconds so you feel like you are playing against a real pro.
 
-### Recources used
+### Resources used
 
 - https://www.eothello.com/
 - https://www.ultraboardgames.com/othello/tips.php
